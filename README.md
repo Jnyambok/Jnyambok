@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://nyerere-data-scientist.carrd.co/">
-    <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-red?style=flat-square">
 </a>  
 <a href="https://drive.google.com/file/d/1aXWdIwa1CYBsMbXJqywteHz7XeOXfduM/view">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
