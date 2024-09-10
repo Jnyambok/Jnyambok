@@ -49,7 +49,7 @@
 
 * 📖 Graduated with a bachelor’s degree in Informatics and Computer Science @ [Strathmore University](https://strathmore.edu/). 
 
-* 🎓 Currently practicing **Machine Learning Engineering** and **Cloud Solutions**
+* 🎓 Currently practicing **Machine Learning Engineering** and **Deploying Cloud Solutions**
   
 * 💻 I write blogs about Machine Learning and A.I on @ [Medium](https://medium.com/@juliusnyambok14).
 
