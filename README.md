@@ -1,10 +1,7 @@
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/cdf7a2b4-611c-4fba-9693-5326a73ab0dd)
 
 <p align="center">
-<a href="https://github.com/jnyambok">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Julius+Nyambok;Machine+Learning+Engineer+%7C+Cloud+Solutions+Specialist+%7C;Data +Scientist+%7C+Aspiring+Football+AI+Engineer%7C+Azure/GCP" alt="Typing SVG" />
-</a>
-<br/>
+
 
 <a href="https://nyerere-data-scientist.carrd.co/">
     <img src="https://img.shields.io/badge/Website-red?style=flat-square">
@@ -29,15 +26,13 @@
 
 💻 **Languages and Tools:** 🛠️<br>
 
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) 
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
+
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7.svg?&logo=azure-devops&logoColor=white)](#)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+
 
 📚 **What I'm currently learning:** <br>
 
@@ -47,11 +42,17 @@
 
 
 
+
 * 📖 Graduated with a bachelor’s degree in Informatics and Computer Science @ [Strathmore University](https://strathmore.edu/). 
 
 * 🎓 Currently practicing **Machine Learning Engineering** and **Deploying Cloud Solutions**
   
-* 💻 I write blogs about Machine Learning and A.I on @ [Medium](https://medium.com/@juliusnyambok14).
+* ✍️ I write blogs about Machine Learning and A.I on @ [Medium](https://medium.com/@juliusnyambok14).
+
+* 📓 Here are my most recent blog posts:
+  - [Building a Simple Linear Regression Model on Azure to Predict Car Prices](https://medium.com/towards-artificial-intelligence/building-a-simple-linear-regression-model-on-azure-to-predict-car-prices-136080bece24)
+  - [Goal-Driven Analytics: Using GCP and Power BI to Visualize English Premier League Data](https://medium.com/towards-artificial-intelligence/goal-driven-analytics-using-gcp-and-power-bi-to-visualize-english-premier-league-data-b4e7545bbcfc)
+  - [The Art of Crafting Insights: A Journey into the intricacies of Dashboard Design.](https://medium.com/dev-genius/the-art-of-crafting-insights-a-journey-into-the-intricacies-of-dashboard-design-915e3d2aceef)
 
 My Github Stats
 
