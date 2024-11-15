@@ -4,7 +4,7 @@
 <p align="center">
 
 
-<a href="https://nyerere-data-scientist.carrd.co/">
+<a href="https://julius-nyerere.dev/">
     <img src="https://img.shields.io/badge/Website-red?style=flat-square">
 </a>  
 <a href="https://drive.google.com/file/d/15mtv-coIWcgEQe2K5G8Bt1-6qfX1AxSR/view?usp=sharing">
