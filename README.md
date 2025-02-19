@@ -7,7 +7,7 @@
 <a href="https://julius-nyerere.dev/">
     <img src="https://img.shields.io/badge/Website-red?style=flat-square">
 </a>  
-<a href="https://drive.google.com/file/d/15mtv-coIWcgEQe2K5G8Bt1-6qfX1AxSR/view?usp=sharing">
+<a href="https://julius-nyerere.dev/resume">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/julius-nyerere/">
