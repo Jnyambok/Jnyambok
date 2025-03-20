@@ -31,6 +31,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 [![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7.svg?&logo=azure-devops&logoColor=white)](#)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 
@@ -39,7 +40,7 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+
 
 
 
