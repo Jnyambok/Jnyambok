@@ -58,6 +58,9 @@
 
 My Github Stats
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Jnyambok)
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jnyambok&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jnyambok&theme=dracula) 
