@@ -25,22 +25,32 @@
 
 </p>
 
-💻 **Languages and Tools:** 🛠️<br>
+#### 💻 Programming Languages
 
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
-[![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7.svg?&logo=azure-devops&logoColor=white)](#)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+#### ⛏️ Backend Development & Database Services
+ ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
+ ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
 
+#### ☁️ Cloud Computing Technologies
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws1.svg)
 
-📚 **What I'm currently learning:** <br>
+### 🧩 Machine Learning Frameworks
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow1.svg)
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
-
+### 📚 **What I'm currently learning:** <br>
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg)
 
 
 
