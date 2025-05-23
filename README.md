@@ -27,10 +27,9 @@
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
 
-#### ⛏️ Backend Development & Database Services
+#### ⛏️ Backend Development,Infrastructure & Database Services
  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
