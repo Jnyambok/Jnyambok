@@ -33,7 +33,6 @@
  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
 
 #### ☁️ Cloud Computing Technologies
