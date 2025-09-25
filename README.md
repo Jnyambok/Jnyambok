@@ -57,8 +57,8 @@
 * ✍️ I write blogs about Machine Learning and A.I on @ [Medium](https://medium.com/@juliusnyambok14).
 
 * 📓 Here are my most recent blog posts:
-  - [Building a Simple Linear Regression Model on Azure to Predict Car Prices](https://medium.com/towards-artificial-intelligence/building-a-simple-linear-regression-model-on-azure-to-predict-car-prices-136080bece24)
-  - [Goal-Driven Analytics: Using GCP and Power BI to Visualize English Premier League Data](https://medium.com/towards-artificial-intelligence/goal-driven-analytics-using-gcp-and-power-bi-to-visualize-english-premier-league-data-b4e7545bbcfc)
+  - [Building a Full Stack MLOps System: Predicting the 2025/2026 English Premier League Season — Initial set-up](https://medium.com/data-ai-and-beyond/building-a-full-stack-mlops-system-predicting-the-2025-2026-english-premier-league-season-1960fb160e30)
+  - [Building a Full Stack MLOps System: Predicting the 2025/2026 English Premier League Season — Phase 1: Data Ingestion.](https://medium.com/data-ai-and-beyond/building-a-full-stack-mlops-system-predicting-the-2025-2026-english-premier-league-season-phase-c9c1d4f83187)
   - [The Art of Crafting Insights: A Journey into the intricacies of Dashboard Design.](https://medium.com/dev-genius/the-art-of-crafting-insights-a-journey-into-the-intricacies-of-dashboard-design-915e3d2aceef)
 
 My Github Stats
