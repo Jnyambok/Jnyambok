@@ -22,31 +22,6 @@
 
 </p>
 
-#### 💻 Programming Languages
-
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
-
-#### ⛏️ Backend Development,Infrastructure & Database Services
- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg)
- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
-
-#### ☁️ Cloud Computing Technologies
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws1.svg)
-
-### 🧩 Machine Learning Frameworks
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow1.svg)
-
-### 📚 **What I'm currently learning:** <br>
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg)
-
 
 
 
