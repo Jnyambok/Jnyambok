@@ -1,4 +1,4 @@
-![Black Minimal Motivation Quote LinkedIn Banner(1)](https://github.com/user-attachments/assets/a61e1615-2ad9-413a-a4f1-e4335161b4da)
+
 
 <p align="center">
 <a href="https://julius-nyerere.dev/">
