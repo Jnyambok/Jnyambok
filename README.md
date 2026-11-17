@@ -56,7 +56,7 @@ I also build ML systems end to end. [Soca-Scores](https://github.com/Jnyambok/So
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Jnyambok)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jnyambok&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jnyambok&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jnyambok&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jnyambok&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jnyambok&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jnyambok&theme=dracula)
