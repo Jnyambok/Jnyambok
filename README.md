@@ -20,6 +20,7 @@
 I'm an **Analytics Engineer** who turns messy raw data into tested, well-modelled tables that people can trust and act on. I work across the whole path from source to dashboard: ingestion in Python, modelling and testing in **dbt** and **SQL**, warehousing on **BigQuery**, and dashboards that answer real business questions.
 
 * 💼 **Open to work:** full-time Analytics Engineer roles, remote or in Nairobi, Kenya.
+* 🔨 **Currently building:** a Spotify "Wrapped" before Wrapped, from my own listening data, then a free tool anyone can use without their files ever leaving the browser.
 * 🎓 BSc in Informatics and Computer Science, [Strathmore University](https://strathmore.edu/).
 * ✍️ I write about data and ML on [Medium](https://medium.com/@juliusnyambok14).
 
@@ -38,7 +39,7 @@ I'm an **Analytics Engineer** who turns messy raw data into tested, well-modelle
 | Project | What it shows |
 |---|---|
 | [**Payments analytics pipeline**](https://github.com/Jnyambok/payments-analytics-pipeline) | End-to-end analytics engineering on BigQuery with a Medallion architecture. Detects and cleans planted anomalies in SQL, builds trusted gold-layer metrics, and ends with an executive deck and a feature recommendation. |
-| [**My Strava running stats**](https://github.com/Jnyambok/My-Strava-Running-Stats) | Personal data product: Strava exports loaded to BigQuery, modelled and tested with dbt, and published as a public dashboard of metrics Strava keeps behind its paid tier. |
+| [**My Strava running stats**](https://github.com/Jnyambok/My-Strava-Running-Stats) · [Live dashboard](https://jnyambok.github.io/My-Strava-Running-Stats/) | Personal data product: Strava exports loaded to BigQuery, modelled with dbt across staging, intermediate and mart layers, and checked by 33 data tests. Finds best efforts from 264k GPS points with a self-join on a distance grid, and publishes the premium-style metrics Strava keeps behind its paid tier. |
 | [**DHIS2 health data pipeline**](https://github.com/Jnyambok/DHIS2-health-data-pipeline) | PySpark pipeline that turns raw DHIS2 health exports into a star schema, with data quality checks, deduplication, incremental loads and cross-country analytics. |
 | [**AutoExpense**](https://github.com/Jnyambok/AutoExpense) | Personal finance ELT: Google Sheets to PostgreSQL, dbt models with data quality tests, and a Streamlit dashboard. |
 | [**dbt with BigQuery**](https://github.com/Jnyambok/.dbt-Tutorial-with-BigQuery) | Setting up and configuring a dbt project on Google BigQuery. |
